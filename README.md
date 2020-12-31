@@ -6,4 +6,4 @@ Esta es una aplicación para generar archivos de tablas de munliplicar
 
 Ejecutar este comando
 
-npm intall
+npm install
